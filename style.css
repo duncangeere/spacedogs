@@ -1,5 +1,5 @@
 body {
-    background-color: #1a1a1a;
+    background-color: #201F3A;
     align-content: center;
 }
 
@@ -15,11 +15,11 @@ body {
     height: auto;
     padding: 2px 20px;
     margin: 30px auto 60px auto;
-    color: #CBCBCB;
+    color: #FFFBE4;
 }
 
 a {
-    color: #D8AE2B;
+    color: #E3B5D1;
     font-weight: 500;
     text-decoration: none;
 }
