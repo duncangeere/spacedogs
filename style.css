@@ -12,7 +12,7 @@ body {
 /* Responsive Image */
 @media (max-width: 850px) {
   #picblock {
-    background-image: url(mobile.png);
+    background-image: url(mobile.svg);
     background-repeat: no-repeat;
     background-size: auto 100%;
     padding-top: 1117.52%
@@ -21,7 +21,7 @@ body {
 
 @media (min-width: 851px) {
   #picblock {
-    background-image: url(spacedogs.png);
+    background-image: url(desktop.svg);
     background-repeat: no-repeat;
     background-size: auto 100%;
     padding-top: 100%
