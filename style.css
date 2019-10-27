@@ -9,6 +9,25 @@ body {
     max-width: 4961px
 }
 
+/* Responsive Image */
+@media (max-width: 850px) {
+  #picblock {
+    background-image: url(mobile.png);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    padding-top: 1117.52%
+  }
+}
+
+@media (min-width: 851px) {
+  #picblock {
+    background-image: url(spacedogs.png);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    padding-top: 100%
+  }
+} 
+
 .text {
     font-family: itc-avant-garde-gothic-pro, sans-serif;
     width: 90%;
